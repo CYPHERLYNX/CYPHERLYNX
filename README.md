@@ -45,7 +45,7 @@ Areas I'm actively building and learning in:
 
 ## 🚀 Currently building
 
-- 🧰 **ToolVault** *(working title)* — a Windows desktop app (Electron + SQLite) that analyzes GitHub repos, websites, social posts, and APKs, then organizes everything into a persistent, categorized library. Shipping soon.
+- 🧰 **[ToolQuiver](https://github.com/CYPHERLYNX/toolquiver)** — a Windows desktop app (Electron + SQLite) that analyzes GitHub repos, websites, social posts, and APKs, then organizes everything into a persistent, categorized library.
 - 🤖 **Daily AI Tool Forge** — every morning I research trending AI tools across the web and social media, then design, build, and ship one original AI tool to this profile. New repos land here daily.
 
 ## 📊 GitHub stats
