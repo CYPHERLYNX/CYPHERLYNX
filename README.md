@@ -1,27 +1,38 @@
 <div align="center">
 
-<h3><code>cypherlynx@github ~ $ ./contributions.sh</code></h3>
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3D ascii
+     wordmark (wipes in left-to-right).
+     portrait: python scripts/make_portrait_svg.py
+     wordmark: python scripts/make_wordmark_svg.py -->
 
-<img src="./contrib-heatmap.svg" width="860" />
+<h3><code>x0d4n@github ~ $ whoami</code></h3>
 
-<br><br>
+<table>
+<tr>
+<td valign="top"><img src="./x0d4n-ascii.svg" width="370" alt="X0D4N — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="X0D4N — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-<h3><code>cypherlynx@github ~ $ whoami</code></h3>
+<br>
+<br>
 
-<img src="./info-card.svg" width="490" />
+<!-- animated contribution graph: real data, cells pop in left to right
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>x0d4n@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="X0D4N's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>x0d4n@github ~ $ ./links.sh</code></h3>
+
+<p><b>Final-year student · Software developer · Cybersecurity enthusiast</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-CYPHERLYNX-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CYPHERLYNX)
+
+<br>
 
 </div>
-
-## Selected projects
-
-| Project | What it is |
-|---|---|
-| [ToolQuiver](https://github.com/CYPHERLYNX/toolquiver) | Windows desktop app (Electron + SQLite) that analyzes GitHub repos, websites, social posts, and APKs into a persistent, categorized library. |
-| [whitespace](https://github.com/CYPHERLYNX/whitespace) | Zero-dependency Python CLI: AI-tool trend radar plus an evidence-backed novelty gate for ideas. |
-| [Local-Network-Vulnerability-Sccanner](https://github.com/CYPHERLYNX/Local-Network-Vulnerability-Sccanner) | Windows network-security suite: Nmap port scanning, Scapy packet capture, AI-assisted threat reports. |
-| [SOAR-EDR-Playbook](https://github.com/CYPHERLYNX/SOAR-EDR-Playbook) | Lazagne credential-access detection rule (MITRE ATT&CK) with an analyst triage playbook. |
-| [ProfileHub](https://github.com/CYPHERLYNX/ProfileHub) | Flask personal-information system: profile CRUD, photo uploads, live search, CSV/PDF export. |
-
-**Stack:** TypeScript · Electron · Python · Flask · SQLite
-
-**Contact:** open an issue on any repo, or find me at [github.com/CYPHERLYNX](https://github.com/CYPHERLYNX).
